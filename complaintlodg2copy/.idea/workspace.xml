@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc6a2a49-0109-4c85-a2eb-5c477ef297c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/templates/authentication/task_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/templates/authentication/task_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/Authentication/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/NSU_complain_lodge_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/NSU_complain_lodge_system/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/NSU_complain_lodge_system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/NSU_complain_lodge_system/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/blogs/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data1/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data2/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/data3/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSU_complain_lodge_system/signup/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NSU_complain_lodge_system/signup/models.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27pyID64G6FSZXrtl1iQRLO4TOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc6a2a49-0109-4c85-a2eb-5c477ef297c3" name="Default Changelist" comment="" />
+      <created>1650031240083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650031240083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
